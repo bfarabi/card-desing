@@ -109,7 +109,8 @@ body {
     
   }
   .icons a {
-    margin: 0px 6px;
+  width: 35px;
+    margin: 0 1rem;
     transition: 0.5s ease all;
   }
 }
