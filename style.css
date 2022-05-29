@@ -98,7 +98,7 @@ body {
 @media only screen and (max-width: 780px) {
   .card {
     width: 60%;
-    padding: 4rem;
+    padding: 1rem;
   }
   .headline {
     font-size: 1.6rem;
@@ -117,5 +117,10 @@ body {
   .icons a {
     margin: 0 10px;
     transition: 0.5s ease all;
+    
+  }
+  .icons a img{
+   width: 3rem;
+    
   }
 }
